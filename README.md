@@ -8,3 +8,5 @@ Reference: <a href="https://github.com/isl-org/Open3D" title="Open3D">Open3D</a>
 Reference: <a href="https://www.mitsuba-renderer.org/devblog/2014/02/mitsuba-0-5-0-released/" title="Mitasuba-renderer0.5.0">Mitasuba-renderer0.5.0</a>
 
 Download: <a href="http://www.mitsuba-renderer.org/releases/current/windows/" title="Mitasuba0.5.0-releases">Mitasuba0.5.0-releases</a> 
+
+![Aaron Swartz](https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/demo.png)

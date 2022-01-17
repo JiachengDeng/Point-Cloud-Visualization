@@ -1,0 +1,130 @@
+2021-11-04 23:19:58 INFO  main [mainwindow.cpp:80] Mitsuba version 0.5.0 (Windows, 64 bit), Copyright (c) 2014 Wenzel Jakob
+2021-11-04 23:19:58 INFO  main [mainwindow.cpp:83] Configured for RGB-based rendering
+2021-11-04 23:20:00 DEBUG main [WGLSession] Initializing WGL session
+2021-11-04 23:20:00 DEBUG main [WGLRenderer] Using an existing WGL context
+2021-11-04 23:20:00 DEBUG main [GLRenderer] OpenGL renderer : Intel(R) UHD Graphics 750
+2021-11-04 23:20:00 DEBUG main [GLRenderer] OpenGL vendor   : Intel
+2021-11-04 23:20:00 DEBUG main [GLRenderer] OpenGL version  : 4.6.0 - Build 27.20.100.9127
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Framebuffers objects are supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: GLSL is supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Floating point textures are supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Floating point color buffers are supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Fast buffer blitting is supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Multisample framebuffer objects are supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Vertex buffer objects are supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Geometry shaders are supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Custom texture filtering is supported.
+2021-11-04 23:20:00 DEBUG main [GLRenderer] Capabilities: Synchronization objects are supported.
+2021-11-04 23:20:00 INFO  main [GLRenderer] Capabilities: Bindless rendering is NOT supported!
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "prvw"
+2021-11-04 23:20:00 DEBUG prvw [WGLDevice] Initializing WGL device
+2021-11-04 23:20:00 DEBUG prvw [WGLRenderer] Initializing WGL renderer
+2021-11-04 23:20:00 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'Accumulation program']
+2021-11-04 23:20:00 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'Directional shadow map generator']
+2021-11-04 23:20:00 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'Paraboloid shadow map generator', maxVertices=4]
+2021-11-04 23:20:00 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'Cube/Hemicube shadow map generator (5/6 pass version)']
+2021-11-04 23:20:00 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'Cube shadow map generator (1 pass version)', maxVertices=18]
+2021-11-04 23:20:00 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'Hemicube shadow map generator (1 pass version)', maxVertices=15]
+2021-11-04 23:20:00 DEBUG main [GLProgram] Uploading a GPU program : GPUProgram[name = 'Tonemapper [Gamma]']
+2021-11-04 23:20:00 DEBUG main [GLProgram] Uploading a GPU program : GPUProgram[name = 'Tonemapper [Reinhard et al. 2002]']
+2021-11-04 23:20:00 DEBUG main [GLProgram] Uploading a GPU program : GPUProgram[name = 'Downsampling program']
+2021-11-04 23:20:00 DEBUG main [GLProgram] Uploading a GPU program : GPUProgram[name = 'Log-luminance program']
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk0"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk1"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk2"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk3"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk4"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk5"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk6"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk7"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk8"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk9"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk10"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk11"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk12"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk13"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk14"
+2021-11-04 23:20:00 DEBUG main [Thread] Spawning thread "wrk15"
+2021-11-04 23:20:13 DEBUG main [Thread] Spawning thread "load"
+2021-11-04 23:20:13 INFO  load [sceneloader.cpp:101] Parsing scene description from "C:\Users\USTC\OneDrive - mail.ustc.edu.cn\桌面\visualize\output_test\0pcd_refine.xml" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\path.dll" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\ldsampler.dll" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\gaussian.dll" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\ldrfilm.dll" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\perspective.dll" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\roughplastic.dll" ..
+2021-11-04 23:20:13 DEBUG load [rtrans.h:118] Loading 100x50x100 (1.9 MiB) rough transmittance samples from "C:/Users\USTC\OneDrive - mail.ustc.edu.cn\桌面\visualize\render\Mitsuba_0.5.0\data/microfacet/ggx.dat"
+2021-11-04 23:20:13 DEBUG load [rtrans.h:132] Precomputed data is available for the IOR range [1.0001, 4.0] and roughness range [0.0000, 4.0]
+2021-11-04 23:20:13 DEBUG load [rtrans.h:296] Reducing dimension from 3D to 2D (19.7 KiB), eta = 1.459596
+2021-11-04 23:20:13 DEBUG load [rtrans.h:296] Reducing dimension from 3D to 2D (19.7 KiB), eta = 0.685121
+2021-11-04 23:20:13 DEBUG load [rtrans.h:359] Reducing dimension from 2D to 1D (404 B), alpha = 0.050000
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\diffuse.dll" ..
+2021-11-04 23:20:13 INFO  load [PluginManager] Loading plugin "plugins\sphere.dll" ..
+2021-11-04 23:20:15 INFO  load [PluginManager] Loading plugin "plugins\rectangle.dll" ..
+2021-11-04 23:20:15 INFO  load [PluginManager] Loading plugin "plugins\area.dll" ..
+2021-11-04 23:20:15 INFO  load [KDTreeBase] Constructing a SAH kd-tree (40002 primitives) ..
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Creating a preliminary index list (156.3 KiB)
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Computed scene bounds in 1 ms
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] kd-tree configuration:
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Traversal cost           : 15.00
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Query cost               : 20.00
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Empty space bonus        : 0.90
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Max. tree depth          : 27
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Scene bounding box (min) : [-17.8752, -10, -0.232816]
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Scene bounding box (max) : [10, 17.8752, 22.7217]
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Min-max bins             : 128
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    O(n log n) method        : use for <= 65536 primitives
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Perfect splits           : yes
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Retract bad splits       : yes
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Stopping primitive count : 6
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Build tree in parallel   : no
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 INFO  load [KDTreeBase] Finished -- took 312 ms.
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Temporary memory statistics:
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Classification storage : 166.0 KiB
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Indirection entries    : 0 (0 B)
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Main thread:
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]       Left events   : 4 chunks (8.7 MiB)
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]       Right events  : 3 chunks (6.0 MiB)
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]       kd-tree nodes : 73048 entries, 2 blocks (1024.0 KiB)
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]       Indices       : 192807 entries, 2 blocks (1024.0 KiB)
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Total: 16.7 MiB
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Optimizing memory layout ..
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Finished -- took 1 ms.
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Structural kd-tree statistics:
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Parallel work units         : 0
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Node storage cost           : 465.4 KiB
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Index storage cost          : 753.2 KiB
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Inner nodes                 : 29782
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Leaf nodes                  : 29783
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Nonempty leaf nodes         : 19002
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Leaf node histogram         : 0(10781) 1(789) 2(1046) 3(1192) 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]                                  4(1380) 5(1668) 6(1795) 7(1400) 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]                                  8(1251) 9(1080) 10(965) 11(821) 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]                                  12(696) 13(608) 14(505) 15(456) 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] Qualitative kd-tree statistics:
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Retracted splits            : 12854
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Pruned primitives           : 0
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Largest leaf node           : 117 primitives
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Avg. prims/nonempty leaf    : 10.15
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Expected traversals/query   : 1.60
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Expected leaf visits/query  : 1.40
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Expected prim. visits/query : 6.15
+2021-11-04 23:20:15 DEBUG load [KDTreeBase]    Final cost                  : 146.95
+2021-11-04 23:20:15 DEBUG load [KDTreeBase] 
+2021-11-04 23:20:15 DEBUG load [ShapeKDTree] Precomputing triangle intersection information (1.8 MiB)
+2021-11-04 23:20:15 DEBUG load [ShapeKDTree] Finished -- took 0 ms.
+2021-11-04 23:20:15 DEBUG load [ShapeKDTree] 
+2021-11-04 23:20:16 DEBUG load [Thread] Thread "load" has finished
+2021-11-04 23:20:21 INFO  prvw [PluginManager] Loading plugin "plugins\halton.dll" ..
+2021-11-04 23:20:24 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'vpl=AreaLightShader, bsdf=SmoothDiffuseShader[ConstantSpectrumTextureShader], ds']
+2021-11-04 23:20:24 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'vpl=AreaLightShader, bsdf=SmoothDiffuseShader[ConstantSpectrumTextureShader], emitter=AreaLightShader, ds']
+2021-11-04 23:20:24 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'vpl=AreaLightShader, bsdf=RoughPlasticShader[ConstantSpectrumTextureShader, ConstantSpectrumTextureShader, ConstantFloatTextureShader], ds']
+2021-11-04 23:20:28 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'vpl=RoughPlasticShader[ConstantSpectrumTextureShader, ConstantSpectrumTextureShader, ConstantFloatTextureShader], bsdf=SmoothDiffuseShader[ConstantSpectrumTextureShader], ds']
+2021-11-04 23:20:28 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'vpl=RoughPlasticShader[ConstantSpectrumTextureShader, ConstantSpectrumTextureShader, ConstantFloatTextureShader], bsdf=SmoothDiffuseShader[ConstantSpectrumTextureShader], emitter=AreaLightShader, ds']
+2021-11-04 23:20:28 DEBUG prvw [GLProgram] Uploading a GPU program : GPUProgram[name = 'vpl=RoughPlasticShader[ConstantSpectrumTextureShader, ConstantSpectrumTextureShader, ConstantFloatTextureShader], bsdf=RoughPlasticShader[ConstantSpectrumTextureShader, ConstantSpectrumTextureShader, ConstantFloatTextureShader], ds']

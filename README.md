@@ -12,6 +12,9 @@ Reference: <a href="https://github.com/isl-org/Open3D" title="Open3D">Open3D</a>
 
 ![A demo of a scene in the SUN RGB-D dataset with Open3D](https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/resources/Open3D_SUNRGBD.jpg)
 
+![demo image](https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/resources/ScanNetV2.gif)
+
+![demo image](https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/resources/SUNRGBD.gif)
 
 ## Mitasuba0.5.0-based Method
 Reference: <a href="https://www.mitsuba-renderer.org/devblog/2014/02/mitsuba-0-5-0-released/" title="Mitasuba-renderer0.5.0">Mitasuba-renderer0.5.0</a>

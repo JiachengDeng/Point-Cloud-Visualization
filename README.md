@@ -52,9 +52,6 @@ Download: <a href="http://www.mitsuba-renderer.org/releases/current/windows/" ti
 # Dataset preparation
 
 We follow the VoteNet codebase for preprocessing our data.
-The instructions for preprocessing SUN RGB-D are [here](https://github.com/facebookresearch/votenet/tree/main/sunrgbd) and ScanNet are [here](https://github.com/facebookresearch/votenet/tree/main/scannet).
-
-You can edit the dataset paths in [`datasets/sunrgbd.py`](datasets/sunrgbd.py#L36) and [`datasets/scannet.py`](datasets/scannet.py#L23-L24) or choose to specify at runtime.🎉
-
+The instructions for preprocessing SUN RGB-D are [here](https://github.com/facebookresearch/votenet/tree/main/sunrgbd) and ScanNet are [here](https://github.com/facebookresearch/votenet/tree/main/scannet).🎉
 
 If you think processing data is too cumbersome for you but want to try our visualization software, we have prepared mini data in the `mini-data` folder for you!✨

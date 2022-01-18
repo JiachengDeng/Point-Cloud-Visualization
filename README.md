@@ -4,7 +4,7 @@ Our open source of 3D point cloud visualization is based on Open3D and Mitasuba0
 ## Open3D-based Method
 Reference: <a href="https://github.com/isl-org/Open3D" title="Open3D">Open3D</a>
 
-
+<img src="https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/resources/Open3D_ScanNetV2.jpg" width = "200" height = "300" alt="" align=center />
 ![A demo of a scene in the ScanNetV2 dataset with Open3D](https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/resources/Open3D_ScanNetV2.jpg =400x400)
 ![A demo of a scene in the SUN RGB-D dataset with Open3D](https://github.com/JiachengDeng/Point-Cloud-Visualization/raw/main/resources/Open3D_SUNRGBD.jpg)
 

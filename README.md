@@ -1,6 +1,6 @@
 # Point-Cloud-Visualization
 This repository is build for point cloud visualization and 3D point cloud object detection related visualization.
-Our open source of 3D point cloud visualization is based on Open3D and Mitasuba0.5.0.
+Our open source of 3D point cloud visualization is based on Open3D and Mitsuba0.5.0.
 ## Open3D-based Method
 Reference: <a href="https://github.com/isl-org/Open3D" title="Open3D">Open3D</a>
 
@@ -29,13 +29,13 @@ We develop this visualization method based on `Open3D`.
   
 </div>
 
-## Mitasuba0.5.0-based Method
-Reference: <a href="https://www.mitsuba-renderer.org/devblog/2014/02/mitsuba-0-5-0-released/" title="Mitasuba-renderer0.5.0">Mitasuba-renderer0.5.0</a>
+## Mitsuba0.5.0-based Method
+Reference: <a href="https://www.mitsuba-renderer.org/devblog/2014/02/mitsuba-0-5-0-released/" title="Mitsuba-renderer0.5.0">Mitsuba-renderer0.5.0</a>
 
 ### Inroduction
-We develop this visualization method based on `Mitasuba` and the software can be downloaded from the link below.
+We develop this visualization method based on `Mitsuba` and the software can be downloaded from the link below.
 
-Download: <a href="http://www.mitsuba-renderer.org/releases/current/windows/" title="Mitasuba0.5.0-releases">Mitasuba0.5.0-releases</a> 
+Download: <a href="http://www.mitsuba-renderer.org/releases/current/windows/" title="Mitsuba0.5.0-releases">Mitsuba0.5.0-releases</a> 
 
 ### 🔥Pros&Cons
 ✔️**High Quality Rendering**

@@ -55,3 +55,7 @@ We follow the VoteNet codebase for preprocessing our data.
 The instructions for preprocessing SUN RGB-D are [here](https://github.com/facebookresearch/votenet/tree/main/sunrgbd) and ScanNet are [here](https://github.com/facebookresearch/votenet/tree/main/scannet).🎉
 
 If you think processing data is too cumbersome for you but want to try our visualization software, we have prepared mini data in the `mini-data` folder for you!✨
+
+# 👇Attention Plz!!!
+Please pay attention to this issue:
+https://github.com/facebookresearch/3detr/issues/3
